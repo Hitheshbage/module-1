@@ -4,12 +4,7 @@ This smart contract calculates the value of old paintings based on their creatio
 
 ### Contract Overview:
 
-The contract is named `OldPaintingValue`.
-
-### Constants:
-
-- `baseValue`: The base value assigned to a painting, set at 100 units.
-- `annualIncrement`: The annual increment percentage, set at 5%.
+The contract is named  as `OldPaintingValue`.
 
 ### Functions:
 
